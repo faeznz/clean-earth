@@ -1,0 +1,12 @@
+node_modules
+package-lock.json
+build
+dist
+.RData
+.Rhistory
+.git
+.gitignore
+manifest.json
+rsconnect/
+.Rproj.user
+.env
